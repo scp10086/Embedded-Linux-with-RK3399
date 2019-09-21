@@ -1,5 +1,5 @@
 # Embedded-Linux-with-RK3399Pro
-# 木匾
+# 目标
 1. 根据教程制作一个自己的linux操作系统
 2. 学习嵌入式linux
     1. 裸机开发
