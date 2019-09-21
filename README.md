@@ -12,3 +12,13 @@
 [知乎 嵌入式Linux有哪些好书推荐？](https://www.zhihu.com/question/21336174)
 
 [如何学习嵌入式？嵌入式linux学习方法步骤。](https://www.zhihu.com/question/35102799)
+
+[韦山东视频以及他的详细教程 rk3399]
+
+[讯为开发板 Ubuntu Android 4核 itop-4412]
+
+[开发板官网教程及开发板资料]
+
+[知乎上以及外国资料与书籍]
+
+
