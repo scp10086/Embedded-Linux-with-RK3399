@@ -21,4 +21,5 @@
 
 [知乎上以及外国资料与书籍]
 
+[官方开源资料](http://opensource.rock-chips.com/wiki_Main_Page)
 
