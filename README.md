@@ -24,3 +24,5 @@
 [官方开源资料](http://opensource.rock-chips.com/wiki_Main_Page)
 
 [嵌入式linux中文站](http://www.embeddedlinux.org.cn/)
+
+[linux from scratch]
