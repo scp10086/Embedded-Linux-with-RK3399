@@ -1,4 +1,6 @@
-# Embedded-Linux-with-RK3399P
+# Embedded-Linux-with-RK3399
+# 硬件平台
+1. firefly硬件平台
 # 目标
 1. 根据教程制作一个自己的linux操作系统
 2. 学习嵌入式linux
