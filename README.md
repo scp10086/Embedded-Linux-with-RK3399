@@ -4,7 +4,7 @@
 
 2. [firefly rk3399 论坛](http://dev.t-firefly.com/forum-209-1.html)
 
-3. [RK3399 官方仓库]
+3. [RK3399 官方仓库](https://github.com/rockchip-linux)
 # 目标
 1. 根据教程制作一个自己的linux操作系统
 2. 学习嵌入式linux
