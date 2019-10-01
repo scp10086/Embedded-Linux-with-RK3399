@@ -1,6 +1,8 @@
 # Embedded-Linux-with-RK3399
 # 硬件平台
 1. [firefly硬件平台](http://www.t-firefly.com/)
+
+2. [firefly rk3399 论坛](http://dev.t-firefly.com/forum-209-1.html)
 # 目标
 1. 根据教程制作一个自己的linux操作系统
 2. 学习嵌入式linux
@@ -29,3 +31,5 @@
 [嵌入式linux中文站](http://www.embeddedlinux.org.cn/)
 
 [linux from scratch]
+
+[]
