@@ -32,4 +32,4 @@
 
 [linux from scratch]
 
-[]
+[RK3399 吴川斌的博客](https://www.mr-wu.cn/rockchip-rk3399-reference-design/)
