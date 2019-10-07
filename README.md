@@ -19,6 +19,10 @@
 1. 做一个自己的U盘
 
 2. 做一个自己的键盘和鼠标
+
+3. 自己编译linux内核
+
+4. 自己编译Android源码
 # 资源
 
 [知乎 嵌入式Linux有哪些好书推荐？](https://www.zhihu.com/question/21336174)
