@@ -35,3 +35,9 @@
 [linux from scratch]
 
 [RK3399 吴川斌的博客](https://www.mr-wu.cn/rockchip-rk3399-reference-design/)
+
+# 硬件开发趣闻
+
+[USB基础知识概论](www.crifan.com/files/doc/docbook/usb_basic/release/html/usb_basic.html#why_many_class)
+
+[做一个U盘](http://bbs.mydigit.cn/thread.php?fid=18)
