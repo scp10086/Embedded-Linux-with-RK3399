@@ -48,3 +48,5 @@
 [USB基础知识概论](www.crifan.com/files/doc/docbook/usb_basic/release/html/usb_basic.html#why_many_class)
 
 [做一个U盘](http://bbs.mydigit.cn/thread.php?fid=18)
+
+[winscp](https://winscp.net/eng/docs/after_installation?ver=5.15.5&lang=chs&utm_source=winscp&utm_medium=setup&utm_campaign=5.15.5&prevver=&automatic=0)
